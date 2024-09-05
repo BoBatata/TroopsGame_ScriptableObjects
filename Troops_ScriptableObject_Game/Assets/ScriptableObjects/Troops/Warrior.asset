@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30144867f7e161e4abf705b4958c6999, type: 3}
+  m_Name: Warrior
+  m_EditorClassIdentifier: 
+  troopName: Warrior
+  life: 20
+  damage: 2
+  velocity: 2
+  price: 200
+  troopSprite: {fileID: 1267830177, guid: 8f7a60065e3984c489b9c4d41bc3dc4e, type: 3}
+  troopAnimator: {fileID: 0}
+  animController: {fileID: 9100000, guid: 93bfe47e42058d341b95ff98b0d44291, type: 2}

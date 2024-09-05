@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30144867f7e161e4abf705b4958c6999, type: 3}
+  m_Name: Farmer
+  m_EditorClassIdentifier: 
+  troopName: Farmer
+  life: 3
+  damage: 1
+  velocity: 3
+  price: 10
+  troopSprite: {fileID: -1413294825, guid: 99a24620d31e5ce4e823c32d11e17c2c, type: 3}
+  animController: {fileID: 9100000, guid: c3aaf9cc8e4b651419fb5d3048957021, type: 2}
